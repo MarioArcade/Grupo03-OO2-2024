@@ -1,0 +1,3 @@
+Prueba de ramas (branch)
+
+rama INICIO para codigo de entrada al sistema: login, logout, nuevo usuario.
